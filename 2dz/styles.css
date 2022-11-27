@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'NeueMachina-Ultrabold';
+	src: url('/fonts/neuemachina-ultrabold.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/neuemachina-ultrabold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/neuemachina-ultrabold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/neuemachina-ultrabold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/neuemachina-ultrabold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/neuemachina-ultrabold.svg#neuemachina-ultrabold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+html{
+    background-color: aqua;
+}
+h1{
+    color: rgba(177, 22, 35, 0.884);
+    font-family:'NeueMachina-Ultrabold', sans-serif;
+}
+h2{
+    color: rgb(253, 253, 7);
+}
+
+.asd1{
+    color: rgb(253, 253, 7);
+    font-size: 150%;
+}
+.asd2{
+    color: rgb(194, 34, 34);
+    font-size: 150%;
+}
+.asd3{
+    color: rgb(10, 202, 129);
+    font-size: 150%;
+}
