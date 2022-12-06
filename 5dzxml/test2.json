@@ -1,0 +1,26 @@
+[
+    {
+    "firstname": "Иван",
+    "lastname": "Иванов",
+    "age": 37,
+    "hobbies" :[
+       "рыбалка",
+       "пиво"
+    ],           
+    "married":"да",
+    "children":"Николай" 
+    },
+    {
+
+        "firstname": "Ольга",
+        "lastname": "Иванова",
+        "age": 27,
+        "hobbies" : [
+           "еда",
+           "вышивание"
+        ],           
+        "married": false,
+        "children": null 
+    }
+        
+]

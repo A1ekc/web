@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+    <person>
+            <firstname>Иван</firstname>
+            <lastname>Иванов</lastname>
+            <age>37</pages>
+            <hobbies>
+                <hobby>рыбалка</hobby>
+                <hobby>пиво</hobby>
+            </hobbies>
+            <married>да</married>
+            <children>Мария, Николай</children> 
+    </person>
+    <person>
+        <firstname>Ольга</firstname>
+        <lastname>Иванова</lastname>
+        <age>27</pages>
+        <hobby>еда</hobby>
+        <married>нет</married>
+        <children>Мария, Николай</children> 
+</person>
+    
+</people>
